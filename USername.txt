@@ -1,0 +1,4 @@
+username admin1234 password admin1234 = Admin
+	 tes9		    testing   = Kuli_Surat
+
+*file .sql ada di folder database siak.sql
